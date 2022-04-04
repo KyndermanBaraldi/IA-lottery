@@ -1,2 +1,2 @@
 # IA-lottery
-AI concepts applied to Brazilian lottery - developed in python
+AI concepts applied to generate Brazilian lottery predictions - developed in python
